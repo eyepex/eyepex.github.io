@@ -1,6 +1,3 @@
-# Welcome to my static github.io page,
-
-
 you can find some of my side projects (including this) on the github.
 **Have a Look around.**
 
